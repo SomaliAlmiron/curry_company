@@ -28,8 +28,8 @@ st.markdown(
     - Visão Restaurante:
         - Indicadores semanais de crescimento dos restautantes
     ### Ask for Help
-    - Time de Data Science no Discord
-        - @meigarom
+    - Me contate através do linkedIn:
+        - https://www.linkedin.com/in/somali-almiron/
     
     """
 )
